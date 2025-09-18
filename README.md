@@ -16,9 +16,3 @@ Pensado para dictado 100% virtual y/o híbrido, con soporte para Google Colab.
 ## Cómo abrir un notebook en Colab
 Ejemplo:
 
-
-## Git LFS (para datos >50MB)
-```bash
-git lfs install
-git lfs track "data/grandes/*.csv"
-git add .gitattributes
